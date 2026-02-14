@@ -61,6 +61,6 @@ A full-stack application for viewing and editing user profiles, built with React
    ```
    The frontend application will be available at `http://localhost:5173`.
 
-## Features
+
 
 
